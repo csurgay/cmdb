@@ -5,4 +5,4 @@ data:
   - hostname: host2
     webserver: nginx
   - hostname: host3
-    webserver: haproxy
+    webserver: lighttpd
