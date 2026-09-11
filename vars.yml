@@ -1,7 +1,7 @@
 ---
 data:
   - hostname: host1
-    webserver: httpd
+    webserver: nginx
   - hostname: host2
     webserver: nginx
   - hostname: host3
