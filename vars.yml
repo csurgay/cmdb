@@ -1,7 +1,7 @@
 ---
 data:
   - hostname: host1
-    webserver: nginx
+    webserver: httpd
   - hostname: host2
     webserver: lighttpd
   - hostname: host3
