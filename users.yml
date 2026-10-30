@@ -8,4 +8,6 @@ users:
     password: sherdor
   - name: khakim
     password: khakim
+  - name: bobur
+    password: bobur
 other: some value
